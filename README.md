@@ -3,7 +3,7 @@ developer: Manuel Máñez
 
 ##Install
   Open terminal navigate to your projects folder and write the following instructions:
-    '''git clone git@github.com:eanplatter/react-starter.git myNewApp
+    '''git clone https://github.com/manuelmanez/react-starter.git myApp
        npm install'''
 
 ##Usage
