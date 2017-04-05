@@ -1,18 +1,18 @@
-#React Starter
+# React Starter
 developer: Manuel Máñez
 
-##Install
+## 1. Install
   Open terminal navigate to your projects folder and write the following instructions:
     '''git clone https://github.com/manuelmanez/react-starter.git myApp
        npm install'''
 
-##Usage
+## 2. Usage
 
-###Development using server
+### Development using server
 Open terminal in the project folder and write:
     '''npm start'''
 
-###Generate
+### Generate
 Open terminal in the project folder and write:
     '''npm run-script generate-bundle'''
 Open the browser and navigate to http://localhost:8080/
